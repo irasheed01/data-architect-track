@@ -30,7 +30,7 @@ def parse_amount(raw):
 
 def parse_quantity(raw):
     try:
-        return int(raw.strip().isdigit())
+        return int(isdigit(raw.strip().replace(' ', '').replace('N/A', '')))
     except ValueError:
         return None
     
