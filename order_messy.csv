@@ -1,0 +1,30 @@
+order_id,customer_name,email,order_date,amount,quantity,status,notes
+1001,Alice Nguyen,alice.nguyen@example.com,2026-03-04,124.5,2,shipped,
+1002,BOB CARTER,BOB.CARTER@EXAMPLE.COM,03/05/2026,89.99,1,Shipped,repeat customer
+1003,carla dsouza,,2026-03-05,45,3,PENDING,"called twice, no answer"
+1004,Dmitri Volkov,d.volkov@example.com,Mar 6 2026,N/A,1,shipped,
+1005,Elena Fischer,elena.fischer@example.com,2026-03-06,220,2,pending,
+1006,frank o'brien,frank.obrien@example.com,2026-03-07,$78.25,1,SHIPPED,
+1007,Grace Park,grace.park@example.com,2026-03-07,156.75,4,shipped,
+1008,HANNAH LEE,hannah.lee@example.com,2026-13-45,99,1,pending,bad address on file
+1009,Ivan Petrov,,2026-03-08,,2,shipped,
+1010,julia moreau,julia.moreau@example.com,2026-03-09,310.4,1,cancelled,"refund issued, see ticket 4471"
+1011,Kenji Tanaka,kenji.tanaka@example.com,03/09/2026,67,3,shipped,
+1012,Lena Okafor,LENA.OKAFOR@example.com,2026-03-10,142.1,2,Pending,
+1013,marco rossi,marco.rossi@example.com,2026-03-10,-25,1,cancelled,chargeback
+1014,Nadia Haddad,nadia.haddad@example.com,2026-03-11,188.9,2,shipped,
+1015,Omar Farouk,omar.farouk@example.com,2026-03-11,54.25,1,SHIPPED,
+1016,Priya Sharma,priya.sharma@example.com,2026-03-12,401,5,pending,bulk order
+1016,Priya Sharma,priya.sharma@example.com,2026-03-12,401,5,pending,bulk order
+1017,QUENTIN BLAKE,quentin.blake@example.com,2026-03-13,73.5,1,shipped,
+1018,Rosa Delgado,rosa.delgado@example.com,,119.99,2,pending,
+1019,Sam Whitfield,sam.whitfield@example.com,2026-03-14,86,two,shipped,
+1020,Tara Iyer,tara.iyer@example.com,2026-03-14,245.6,3,Shipped,"gift wrap, note enclosed"
+1021,umar khan,umar.khan@example.com,03/15/2026,132,1,pending,
+1022,Vera Lindqvist,vera.lindqvist@example.com,2026-03-16,,1,shipped,
+1023,William Ochieng,william.ochieng@example.com,2026-03-16,97.8,2,SHIPPED,
+1024,XIA CHEN,xia.chen@example.com,2026-03-17,510.25,6,pending,wholesale
+1025,Yusuf Demir,,2026-03-18,64.4,1,shipped,
+1026,Zoe Martins,zoe.martins@example.com,2026-03-18,178,2,shipped,
+1027,alice nguyen,alice.nguyen@example.com,2026-03-19,205.3,3,pending,
+1028,Ben Adeyemi,ben.adeyemi@example.com,not a date,88.88,1,shipped,
